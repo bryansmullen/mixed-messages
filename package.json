@@ -1,0 +1,24 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "A simple music quote generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryansmullen/mixed-messages.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "Git"
+  ],
+  "author": "Bryan Mullen <bryan@bryanmullen.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryansmullen/mixed-messages/issues"
+  },
+  "homepage": "https://github.com/bryansmullen/mixed-messages#readme"
+}
