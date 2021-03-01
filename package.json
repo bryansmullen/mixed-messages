@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/bryansmullen/mixed-messages/issues"
   },
-  "homepage": "https://github.com/bryansmullen/mixed-messages#readme"
+  "homepage": "https://github.com/bryansmullen/mixed-messages#readme",
+  "devDependencies": {
+    "eslint": "7.21.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-config-prettier": "8.1.0",
+    "eslint-plugin-import": "2.22.1",
+    "jsdoc": "3.6.6",
+    "prettier": "2.2.1"
+  }
 }
