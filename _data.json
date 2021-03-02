@@ -1,0 +1,31 @@
+{
+  "musicians": [
+    "Miles Davis",
+    "John Coltrane",
+    "Charlie Parker",
+    "Charles Mingus",
+    "Mary Lou Williams",
+    "Herbie Hancock",
+    "Nat King Cole",
+    "Keith Jarrett",
+    "Kurt Elling",
+    "Thelonious Monk",
+    "Wynton Marsalis"
+  ],
+  "dontPlays": [
+    "the butter note",
+    "the saxophone",
+    "the fool",
+    "flat nines",
+    "flat fives",
+    "sharp elevens"
+  ],
+  "plays": [
+    "the piano",
+    "free jazz",
+    "what's not there",
+    "computer games",
+    "sharp fives",
+    "sharp nines"
+  ]
+}
