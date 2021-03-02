@@ -41,7 +41,10 @@ Mixed Messages is a music quote generator. Every time you run the program the us
 
 ## Setup
 
-- Clone the repo
+- Ensure you have node, npm and git installed on your system
+- Clone the repo using `git clone https://github.com/bryansmullen/mixed-messages.git`
+- Install project dependancies with `npm install`
+- Run `npm start`
 
 [Back to top](#mixed-messages)
 
@@ -51,14 +54,14 @@ Mixed Messages is a music quote generator. Every time you run the program the us
 
 To-do list:
 
-- [ ] Plan your project
-- [ ] Come Up with a Topic
-- [ ] Create script and run it locally
-- [ ] Set up version control
-- [ ] Store message components
-- [ ] Create the message
-- [ ] Put the program together
-- [ ] Next Steps
+- [x] Plan your project
+- [x] Come Up with a Topic
+- [x] Create script and run it locally
+- [x] Set up version control
+- [x] Store message components
+- [x] Create the message
+- [x] Put the program together
+- [x] Next Steps
 
 [Back to top](#mixed-messages)
 
@@ -66,7 +69,7 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_
+Project is: _complete_
 
 [Back to top](#mixed-messages)
 
@@ -74,7 +77,7 @@ Project is: _in progress_
 
 ## Inspiration
 
-Add here credits. Project based on challenge set by [Codecademy](https://www.codecademy.com/)
+Project based on challenge set by [Codecademy](https://www.codecademy.com/)
 
 [Back to top](#mixed-messages)
 
