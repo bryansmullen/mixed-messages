@@ -1,6 +1,6 @@
 const { musicians, dontPlays, plays } = require("../_data.json");
+const createMessage = require("../src/createMessage");
 
-const createMessage = require("../createMessage");
 describe("Tests the createMessage function", () => {
   it("should return a string", () => {
     const message = createMessage();

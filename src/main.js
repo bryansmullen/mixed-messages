@@ -22,7 +22,13 @@
  *  SOFTWARE.
  */
 
-const printMessage = require("./createMessage");
+/**
+ * @file The file main.js is the root file of this application. It pulls in the createMessage function and calls it.
+ * @author Bryan Mullen
+ * @see https://github.com/bryansmullen
+ */
+
+const createMessage = require("./createMessage");
 
 // call function
-console.log(printMessage());
+console.log(createMessage());

@@ -4,9 +4,10 @@
   "description": "A simple music quote generator",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node src/main.js",
     "test": "jest",
-    "coverage": "jest --coverage"
+    "coverage": "jest --coverage",
+    "docs": "jsdoc -c jsdoc.json"
   },
   "repository": {
     "type": "git",

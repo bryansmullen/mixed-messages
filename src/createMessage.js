@@ -1,8 +1,13 @@
+/**
+ * Create message module - pulls in data from external file and constructs a message from the data
+ * @module createMessage
+ */
+
 // import data
-const { musicians, dontPlays, plays } = require("./_data.json");
+const { musicians, dontPlays, plays } = require("../_data.json");
 
 /**
- * Print Message to Console
+ * createMessage - returns a string of format 'In the words of the jazz great, ${musician}, don't play ${dontPlay}, play ${play}'
  * @returns {void}
  */
 const createMessage = () => {
