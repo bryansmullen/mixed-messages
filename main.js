@@ -22,25 +22,7 @@
  *  SOFTWARE.
  */
 
-// import data
-const { musicians, dontPlays, plays } = require("./_data.json");
-
-/**
- * Print Message to Console
- * @returns {void}
- */
-const printMessage = () => {
-  // message components
-  const musician = musicians[Math.floor(Math.random() * musicians.length)];
-  const dontPlay = dontPlays[Math.floor(Math.random() * dontPlays.length)];
-  const play = plays[Math.floor(Math.random() * plays.length)];
-
-  //    construct message
-  const msg = `In the words of the jazz great, ${musician}, don't play ${dontPlay}, play ${play}`;
-
-  //    print message
-  console.log(msg);
-};
+const printMessage = require("./createMessage");
 
 // call function
-printMessage();
+console.log(printMessage());
